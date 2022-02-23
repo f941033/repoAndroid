@@ -22,5 +22,17 @@ Realizada por:
 Faltarían los toast personalizados.
 
 [GitHub del grupo](https://github.com/GonzaloSC95/Actividad3_Agenda.git)
+<br><br>
 
+## App #3:
+Realizada por:
+* Jesús Rodríguez Herranz
+* Alejandro Ocaña Bravo
+* Lucia Lopez Rodriguez
+* Sara García Poveda
 
+Faltarían los toast personalizados.
+
+[Descarga del proyecto](https://drive.google.com/file/d/1yKQWKU3DXc-tmKVj2Ya_Ez9dY9ZEy2M2/view?usp=sharing)
+
+<br><br>
