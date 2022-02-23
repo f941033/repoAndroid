@@ -1,5 +1,5 @@
 # repoAndroid
-## Repositorio con algunas apps de alumnos que dan solución a la tarea de Android de Desarrollo de Interfaces
+## Repositorio con algunas apps de alumnos que dan solución a la tarea de Android del módulo Desarrollo de Interfaces
 <br><br>
 
 ## App #1:
